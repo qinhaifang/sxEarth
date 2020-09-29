@@ -1,0 +1,34 @@
+{
+    "000000000000":{
+        "name":"layerChina",
+        "layers":"shengjiel"
+    },
+    "610000000000":{
+        "name":"shan3xi",
+        "layers":"shan3xi"
+    },
+    "150000000000":{
+        "name":"neimenggu",
+        "layers":"neimenggu"
+    },
+    "610700000000":{
+        "name":"hanzhong",
+        "layers":"hanzhong"
+    },
+    "150700000000":{
+        "name":"hulunbeier",
+        "layers":"hulunbeier"
+    },
+    "610726000000":{
+        "name":"layerNingQiang",
+        "layers":"ningqiangcun"
+    },
+    "610727000000":{
+        "name":"layerLueYang",
+        "layers":"lueyangcun"
+    },
+    "150724000000":{
+        "name":"layerEWenKe",
+        "layers":"ewenkecun"
+    }
+}

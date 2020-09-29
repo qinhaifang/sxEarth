@@ -1,0 +1,101 @@
+[
+	{
+		"id": 0,
+		"name": "其他",
+		"show": false,
+		"value": 42.69,
+		"Data": 6925.6099999,
+		"Than": 42.68,
+		"Pay": 4233.648101,
+		"PayRate": 61.13,
+		"total": 76
+	},
+	{
+		"id": 1,
+		"name": "低保政策兜底一批",
+		"show": false,
+		"value": 0.00,
+		"Data": 0,
+		"Than": 0,
+		"Pay": 0,
+		"PayRate": 0,
+		"total": 0
+	},
+	{
+		"id": 2,
+		"name": "医疗救助解困一批",
+		"show": false,
+		"value": 0.00,
+		"Data": 0,
+		"Than": 0,
+		"Pay": 0,
+		"PayRate": 0,
+		"total": 0
+	},
+	{
+		"id": 3,
+		"name": "教育扶智帮助一批",
+		"show": false,
+		"value": 1.01,
+		"Data": 164.35,
+		"Than": 1,
+		"Pay": 14.47,
+		"PayRate": 8.8,
+		"total": 2
+	},
+	{
+		"id": 4,
+		"name": "扶持生产发展一批",
+		"show": false,
+		"value": 48.39,
+		"Data": 7850.88,
+		"Than": 48.38,
+		"Pay": 6847.4131,
+		"PayRate": 87.21,
+		"total":8
+	},
+	{
+		"id": 5,
+		"name": "移民搬迁安置一批",
+		"show": false,
+		"value": 0.00,
+		"Data": 0,
+		"Than": 0,
+		"Pay": 0,
+		"PayRate": 0,
+		"total": 0
+	},
+	{
+		"id": 6,
+		"name": "转移就业扶持一批",
+		"show": false,
+		"value": 7.91,
+		"Data": 1283.6,
+		    "Than": 7.91,
+		    "Pay": 815.6,
+				"PayRate": 63.54,
+				"total": 2
+	},
+	{
+		"id": 7,
+		"name": "生态补偿脱贫一批",
+		"show": false,
+		"value": 0.00,
+		"Data": 0,
+		    "Than": 0,
+		    "Pay": 0,
+				"PayRate": 0,
+				"total": 0
+	},
+	{
+		"id": 8,
+		"name": "边贸政策扶助一批",
+		"show": false,
+		"value": 0.00,
+		"Data": 0,
+		    "Than": 0,
+		    "Pay": 0,
+				"PayRate": 0,
+				"total": 0
+	}
+]

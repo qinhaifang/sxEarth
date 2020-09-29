@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"prefecture": 28,
+		"people": 6417826,
+		"fundAccount": 2179207.128819,
+		"projectAccount": 243,
+		"peopleAccount": 1148302,
+		"averageAccount": 0.0224
+	},
+	{
+		"id": 2,
+		"prefecture": 0,
+		"people": 41691,
+		"fundAccount": 71308.853206,
+		"projectAccount": 88,
+		"peopleAccount": 171242,
+		"averageAccount": 0.5183
+	}
+]

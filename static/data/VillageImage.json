@@ -1,0 +1,109 @@
+[
+	{"areaCode":"130722104202","level":"0","title":"河北省张家口张北县小二台镇德胜村","layerName":"hb_zjks_zbx_dsc_gf_dp_20150808.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2015-08-08"},
+	{"areaCode":"130722104202","level":"1","title":"河北省张家口张北县小二台镇德胜村","layerName":"hb_zjks_zbx_dsc_gf_dp_20170811.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2016-08-11"},
+	{"areaCode":"130722104202","level":"2","title":"河北省张家口张北县小二台镇德胜村","layerName":"hb_zjks_zbx_dsc_gf_dp_20170825.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2017-08-25"},
+	{"areaCode":"411323000000","level":"0","title":"西峡县对口帮扶","layerName":"xixia.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2013-05"},
+	{"areaCode":"110113006224","level":"0","title":"荆坨村","layerName":"jingtuocun.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2011-05","dataDetail":{"lon":116.852,"lat":40.0752,"text":"本村现有耕地面积1813亩，树木占地面积比较大， 主要农作物为西瓜、蔬菜，目前有西瓜近百亩， 蔬菜350亩。市农林科学院为本村筛选西瓜、茄子、 白菜、番茄等20类新品种蔬菜，极大提高了蔬菜 生产的产量及品质。"}},
+	{"areaCode":"540100000000","level":"0","title":"拉萨","layerName":"lasa.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/tms/1.0.0/jzfp%3Alasa@EPSG%3A4326@png/","date":"2011-05"},
+	{"areaCode":"540123000000","level":"0","title":"尼木县","layerName":"nimuxian.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2011-05"},
+	{"areaCode":"653222100000","level":"0","title":"墨玉县","layerName":"moyuxian2011.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2011-05","dataDetail":{"lon":79.746666,"lat":37.251666,"text":"2011年05月，墨玉县北京中学还未开始修建。"}},
+	{"areaCode":"653222100000","level":"1","title":"墨玉县","layerName":"moyuxian2013.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2013-12","dataDetail":{"lon":79.746666,"lat":37.251666,"text":"2013年12月,墨玉县北京中学教学设施已经修建成型。"}},
+	{"areaCode":"653222100000","level":"2","title":"墨玉县","layerName":"moyuxian2015.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2015-07","dataDetail":{"lon":79.746666,"lat":37.251666,"text":"2015年07月，墨玉县北京中学教学设施已修建完成，一个操场已修建成型。"}},
+	{"areaCode":"653222100000","level":"3","title":"墨玉县","layerName":"moyuxian2018.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2018-05","dataDetail":{"lon":79.746666,"lat":37.251666,"text":"2018年05月，墨玉县北京中学修建完成，并早已正常开展教学工作。"}},
+	{"areaCode":"653201002000","level":"0","title":"工业区","layerName":"gongye2011.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/tms/1.0.0/jzfp%3Agongye2011@EPSG%3A4326@png/","date":"2011-05","dataDetail":{"lon":79.965,"lat":37.1483333,"text":"北京和田工业园区位于和田市东郊，距市中心直线距离约3公里，主要沿玉龙喀什河两岸呈带状分布，园区管委会2005年5月开始筹建，2006年3月启动建设，2011年7月20日经自治区人民政府批准为自治区级工业园区，是和田市工业发展史上的一个重要里程碑。       2010年，中央新疆工作座谈会确定北京市全面援建和田市，北京市将北京和田工业园区作为北京市对口援疆的重点。北京市从规划、项目和资金方面对和田工业园区进行了深度援助与保障，为和田市经济社会跨越式发展注入强劲动力。"}},
+	{"areaCode":"653201002000","level":"1","title":"工业区","layerName":"gongye2014.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/tms/1.0.0/jzfp%3Agongye2014@EPSG%3A4326@png/","date":"2014-10","dataDetail":{"lon":79.965,"lat":37.1483333,"text":"与2011年监测对比，河西园区率先发展，入园项目增多，学校、公园配套设施比较完善。河东区域正在进行道路修建和园区初期建设。"}},
+	{"areaCode":"653201002000","level":"2","title":"工业区","layerName":"gongye2018.tif","url":"image:http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2018-05","dataDetail":{"lon":79.965,"lat":37.1483333,"text":"与2014年监测对比，河西土地基本开发完毕，河东区域交通设施已完善，众多企业建设已开工。在北京对口援建的大力支持下，园区已发展成为集产业园区、旅游商贸核心区、商业及配套居住区、产业配套居住区、生活居住区等区块于一体的综合型园区，呈现出一派生机勃勃的发展景象。"}},
+	{"areaCode":"653201001000","level":"0","title":"医院","layerName":"yiyuan2012.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2012-09","dataDetail":{"lon":79.9036111,"lat":37.1119444,"text":"2012年8月6日上午，总建筑面积5.3万平方米，项目总投资3.04亿元的“和田市北京医院”在新疆和田举行奠基仪式。这是新一轮援疆工作开展以来，北京市对口援建新疆和田地区单体工程量最大、投资额最高的一项工程。"}},
+	{"areaCode":"653201001000","level":"0","title":"医院","layerName":"yiyuan2014.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2014-10","dataDetail":{"lon":79.9036111,"lat":37.1119444,"text":"与2012年9月影像对比，医院主体大楼建设用地范围内建筑已全部拆除。"}},
+	{"areaCode":"653201001000","level":"1","title":"医院","layerName":"yiyuan2015.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2015-07","dataDetail":{"lon":79.9036111,"lat":37.1119444,"text":"与2014年10月影像对比，医院主体大楼已开工建设，院内一座老旧楼房已拆迁。"}},
+	{"areaCode":"653201001000","level":"2","title":"医院","layerName":"yiyuan2016.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2016-03","dataDetail":{"lon":79.9036111,"lat":37.1119444,"text":"与2015年7月影像对比，医院主体大楼拔地而起，工程主体框架已建设完成。"}},
+	{"areaCode":"653201001000","level":"3","title":"医院","layerName":"yiyuan2017.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2017-10","dataDetail":{"lon":79.9036111,"lat":37.1119444,"text":"与2016年3月影像对比，医院主体大楼已完成装修，院内临街楼房和花园已拆除，待重新规划。"}},
+	{"areaCode":"653201001000","level":"4","title":"医院","layerName":"yiyuan2018.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/wmts","date":"2018-06","dataDetail":{"lon":79.9036111,"lat":37.1119444,"text":"与2017年10月影像对比，院内老旧楼房已拆除，部分工程用地已进行整理。"}},
+	{"areaCode":"653221100000","level":"0","title":"和田县","layerName":"hetianxian2011.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/tms/1.0.0/jzfp%3Ahetianxian2011@EPSG%3A4326@png/","date":"2011-05","dataDetail":{"lon":79.8383333,"lat":37.1386111,"text":"2011年05月，和田县北京高级中学还未开始修建。"}},
+	{"areaCode":"653221100000","level":"1","title":"和田县","layerName":"hetianxian2013.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/tms/1.0.0/jzfp%3Ahetianxian2013@EPSG%3A4326@png/","date":"2013-09","dataDetail":{"lon":79.8383333,"lat":37.1386111,"text":"2013年09月，和田县北京高级中学已开工，部分教学设施已成型。"}},
+	{"areaCode":"653221100000","level":"2","title":"和田县","layerName":"hetianxian2015.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/tms/1.0.0/jzfp%3Ahetianxian2015@EPSG%3A4326@png/","date":"2015-07","dataDetail":{"lon":79.8383333,"lat":37.1386111,"text":"2015年07月，和田县北京高级中学已修建完成，并已开学进行教学工作。 "}},
+	{"areaCode":"653221100000","level":"3","title":"和田县","layerName":"hetianxian2018.tif","url":"http://220.181.130.171:19090/geoserver/gwc/service/tms/1.0.0/jzfp%3Ahetianxian2018@EPSG%3A4326@png/","date":"2018-05","dataDetail":{"lon":79.8383333,"lat":37.1386111,"text":"2018年05月，和田县北京高级中学未发生变化，教学设施完好，教学工作顺利开展。"}}
+	,{"areaCode":"610727108204","level":"0","title":"禅觉寺安置点","layerName":"chanjuesi20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727108204","level":"1","title":"禅觉寺安置点","layerName":"chanhuesi20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727107205","level":"0","title":"陈家坝安置点","layerName":"chenjiaba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727107205","level":"1","title":"陈家坝安置点","layerName":"chenjiaba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727107213","level":"0","title":"大铁坝安置点","layerName":"datieba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727107213","level":"1","title":"大铁坝安置点","layerName":"datieba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727106204","level":"0","title":"封家坝安置点","layerName":"fengjiaba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727106204","level":"1","title":"封家坝安置点","layerName":"fengjiaba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727110200","level":"0","title":"郭镇集镇安置点","layerName":"guozhenjizhen20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727110200","level":"1","title":"郭镇集镇安置点","layerName":"guozhenjizhen20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727115200","level":"0","title":"观音寺村安置点","layerName":"guanyinsi20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727115200","level":"1","title":"观音寺村安置点","layerName":"guanyinsi20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727112212","level":"0","title":"蒿坝安置点(一期)","layerName":"haoba(1)20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727112212","level":"1","title":"蒿坝安置点(一期)","layerName":"haoba(1)20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727111206","level":"0","title":"黑河坝安置点","layerName":"heiheba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727111206","level":"1","title":"黑河坝安置点","layerName":"heiheba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727002001","level":"0","title":"横现河集镇安置点","layerName":"hengxianhejizhen20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727002001","level":"1","title":"横现河集镇安置点","layerName":"hengxianhejizhen20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727103206","level":"0","title":"铧厂坝安置点","layerName":"huachangba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727103206","level":"1","title":"铧厂坝安置点","layerName":"huachangba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727104205","level":"0","title":"惠家坝安置点","layerName":"huijiaba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727104205","level":"1","title":"惠家坝安置点","layerName":"huijiaba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727114207","level":"0","title":"金池院安置点","layerName":"jinchiyuan20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727114207","level":"1","title":"金池院安置点","layerName":"jinchiyuan20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727104001","level":"0","title":"金家河镇集镇安置点","layerName":"jinjiahejizhen20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727104001","level":"1","title":"金家河镇集镇安置点","layerName":"jinjiahejizhen20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727114204","level":"0","title":"九股树安置点","layerName":"jiugushu20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727114204","level":"1","title":"九股树安置点","layerName":"jiugushu20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727103201","level":"0","title":"两河口镇集镇安置点(一期)","layerName":"lianghekoujizhen(1)20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727103201","level":"1","title":"两河口镇集镇安置点(一期)","layerName":"lianghekoujizhen(1)20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727103202","level":"0","title":"两河口镇集镇安置点(二期)","layerName":"lianghekoujizhen(2)20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727103202","level":"1","title":"两河口镇集镇安置点(二期)","layerName":"lianghekoujizhen(2)20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727103204","level":"0","title":"李家坝安置点","layerName":"lijiaba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727103204","level":"1","title":"李家坝安置点","layerName":"lijiaba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727111204","level":"0","title":"李家坪安置点","layerName":"lijiaping20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727111204","level":"1","title":"李家坪安置点","layerName":"lijiaping20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727101004","level":"0","title":"麻柳铺安置点","layerName":"maliupu20160515.tif","url":"","date":"2016-05-15"}
+	,{"areaCode":"610727101004","level":"1","title":"麻柳铺安置点","layerName":"maliupu20180320.tif","url":"","date":"2018-03-20"}
+	,{"areaCode":"610727106213","level":"0","title":"铁佛寺安置点","layerName":"tiefosi20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727106213","level":"1","title":"铁佛寺安置点","layerName":"tiefosi20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727113200","level":"0","title":"仙台坝安置点","layerName":"xiantaiba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727113200","level":"1","title":"仙台坝安置点","layerName":"xiantaiba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727113203","level":"0","title":"新店子安置点","layerName":"xindianzi20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727113203","level":"1","title":"新店子安置点","layerName":"xindianzi20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727105001","level":"0","title":"徐家坪镇集镇安置点","layerName":"xujiapingjizhen20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727105001","level":"1","title":"徐家坪镇集镇安置点","layerName":"xujiapingjizhen20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727107208","level":"0","title":"杨家坝安置点","layerName":"yangjiaba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727107208","level":"1","title":"杨家坝安置点","layerName":"yangjiaba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610727103205","level":"0","title":"竹园坝安置点","layerName":"zhuyuanba20151231.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610727103205","level":"1","title":"竹园坝安置点","layerName":"zhuyuanba20161231.tif","url":"","date":"2016-12-31"}
+	,{"areaCode":"610726102210","level":"0","title":"江林安置点","layerName":"JLBQ_2015_GF2.tif","url":"","date":"2015-12-31"}
+	,{"areaCode":"610726102210","level":"1","title":"江林安置点","layerName":"JLBQ_2018_GF2.tif","url":"","date":"2018-12-31"}
+	,{"areaCode":"150724111013","level":"0","title":"鄂温克集中式光伏扶贫电站","layerName":"NMGF_2017_GF2.tif","url":"","date":"2017-12-31"}
+	,{"areaCode":"150724111013","level":"1","title":"鄂温克集中式光伏扶贫电站","layerName":"NMGF_2018_GF2.tif","url":"","date":"2018-12-31"}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

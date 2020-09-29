@@ -1,0 +1,17 @@
+[
+    {
+        "name":"海图",
+        "url":"http://220.181.130.171:9099/geowebcache/service/tms/1.0.0/IMG@EPSG%3A4326_IMG@jpeg/"
+    },
+    {
+        "name":"地图",
+        "url":"http://220.181.130.171:19090/gisserver/tiles/Tdt_Annotation/{z}/{x}/{y}.png/"
+    },
+    {
+        "name":"影像",
+         "url":"http://220.181.130.171:19090/sdc/tiles/Global_Image/{z}/{x}/{y}.jpg/"
+    },{
+        "name":"高程",
+        "url":"http://220.181.130.171:19090/geowebcache/service/tms/1.0.0/DEM@EPSG%3A4326_DEM@raw/"
+    }
+]
