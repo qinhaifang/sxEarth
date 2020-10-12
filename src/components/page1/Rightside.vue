@@ -46,34 +46,19 @@ export default {
       isShow: false,
       list: [
         {
-          name: "都安县高岭镇加全村下坡屯至拉烈镇隆翠村弄长屯级路硬化工程",
+          name: "新建大棚项目",
           value: 90,
           check: false
         },
         {
-          name: "永吉村加拉至干真屯级路建设",
+          name: "2019年普通高中学校改善办学条件（新建学生公寓楼）",
           value: 48,
           check: false
         },
-        { name: "六山村龙项屯乡级饮水安全巩固提升工程（新建水厂一个）", value: 347.16, check: false },
+        { name: "2019年中央彩票公益金耿镇集中安置区扶贫车间建设项目", value: 347.16, check: false },
         {
-          name: "江洒水库移民新村提升工程",
+          name: "2019年度阳曲县2017年易地扶贫搬迁集中安置项目",
           value: 350,
-          check: false
-        },
-        {
-          name: "孟荣水库移民新村续建工程",
-          value: 135.48,
-          check: false
-        },
-        {
-          name: "拉烈镇地平村花东坳口至弄险道路",
-          value: 175,
-          check: false
-        },
-        {
-          name: "推内水库移民新村提升工程",
-          value: 250,
           check: false
         }
       ]
@@ -82,31 +67,22 @@ export default {
   methods: {
     selectProject(item) {
       if (!item.check) {
-        if (item.name == "都安县高岭镇加全村下坡屯至拉烈镇隆翠村弄长屯级路硬化工程") {
+        if (item.name == "新建大棚项目") {
           Bus.$emit("select_project1");
           Bus.$emit("project-click-event", item.name);
-        } else if (item.name == "永吉村加拉至干真屯级路建设") {
+        } else if (item.name == "2019年普通高中学校改善办学条件（新建学生公寓楼）") {
           Bus.$emit("select_project2");
           Bus.$emit("project-click-event", item.name);
-        } else if (item.name == "六山村龙项屯乡级饮水安全巩固提升工程（新建水厂一个）") {
+        } else if (item.name == "2019年中央彩票公益金耿镇集中安置区扶贫车间建设项目") {
           Bus.$emit("select_project2");
           Bus.$emit("project-click-event", item.name);
-        }else if (item.name == "江洒水库移民新村提升工程") {
-          Bus.$emit("select_project2");
-          Bus.$emit("project-click-event", item.name);
-        }else if (item.name == "孟荣水库移民新村续建工程") {
-          Bus.$emit("select_project2");
-          Bus.$emit("project-click-event", item.name);
-        }else if (item.name == "拉烈镇地平村花东坳口至弄险道路") {
-          Bus.$emit("select_project2");
-          Bus.$emit("project-click-event", item.name);
-        }else if (item.name == "推内水库移民新村提升工程") {
+        }else if (item.name == "2019年度阳曲县2017年易地扶贫搬迁集中安置项目") {
           Bus.$emit("select_project2");
           Bus.$emit("project-click-event", item.name);
         }else {
           Bus.$emit("select_project");
           Bus.$emit("clear-all-mark");
-          Bus.$emit("zone-click-event", "金秀瑶族自治县")
+          Bus.$emit("zone-click-event", "山西省")
         }
         this.list.forEach(obj => {
           if (obj.name != item.name) {
@@ -116,7 +92,7 @@ export default {
       } else {
         Bus.$emit("select_project");
         Bus.$emit("clear-all-mark");
-        Bus.$emit("zone-click-event", "金秀瑶族自治县")
+        Bus.$emit("zone-click-event", "山西省")
       }
       item.check = !item.check;
     }

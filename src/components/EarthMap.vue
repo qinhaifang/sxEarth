@@ -356,24 +356,87 @@ export default {
       zoneObject: [
         {
           zoneName: "gxzzzzz",
-          lon: 109.224724,
-          lat: 23.791674,
+          lon: 112.549248,
+          lat: 37.857014,
           height: 1314150,
-          name: "广西壮族自治区"
+          name: "山西省"
         },
         {
-          zoneName: "jxyzzzx",
-          lon: 110.197481,
-          lat: 24.055164,
+          zoneName: "taiyuan",
+          lon: 112.549248,
+          lat: 37.857014,
           height: 169496,
-          name: "金秀瑶族自治县"
+          name: "太原市"
         },
         {
-          zoneName: "lbs",
-          lon: 109.213225,
-          lat: 23.755164,
+          zoneName: "datong",
+          lon: 113.295259,
+          lat: 40.09031,
           height: 311615,
-          name: "来宾市"
+          name: "大同市"
+        },
+        {
+          zoneName: "yangquan",
+          lon: 113.583285,
+          lat: 37.861188,
+          height: 311615,
+          name: "阳泉市"
+        },
+        {
+          zoneName: "changzhi",
+          lon: 113.113556,
+          lat: 36.191112,
+          height: 311615,
+          name: "长治市"
+        },
+        {
+          zoneName: "jincheng",
+          lon: 112.851274,
+          lat: 35.497553,
+          height: 311615,
+          name: "晋城市"
+        },
+        {
+          zoneName: "shuozhou",
+          lon: 112.43338,
+          lat: 39.331261,
+          height: 311615,
+          name: "朔州市"
+        },
+        {
+          zoneName: "jinzhong",
+          lon: 112.736465,
+          lat: 37.696495,
+          height: 311615,
+          name: "晋中市"
+        },
+        {
+          zoneName: "yuncheng",
+          lon: 111.003957,
+          lat: 35.022778,
+          height: 311615,
+          name: "运城市"
+        },
+        {
+          zoneName: "xinzhou",
+          lon: 112.733538,
+          lat: 38.41769,
+          height: 311615,
+          name: "忻州市"
+        },
+        {
+          zoneName: "linfen",
+          lon: 111.517973,
+          lat: 36.08415,
+          height: 311615,
+          name: "临汾市"
+        },
+        {
+          zoneName: "lvliang",
+          lon: 111.134335,
+          lat: 37.524366,
+          height: 311615,
+          name: "吕梁市"
         },
         {
           zoneName: "qg",
@@ -386,12 +449,12 @@ export default {
       projectDetail: [
         {
           centerPosition: {
-            lon: 108.1963,
-            lat: 24.1250,
+            lon: 112.6455,
+            lat: 38.0899,
             height: 10000
           },
           serviceId: "5f00d151-7c0a-45ce-ac12-565c407b02b9",
-          name: "都安县高岭镇加全村下坡屯至拉烈镇隆翠村弄长屯级路硬化工程",
+          name: "新建大棚项目",
           xmzj: "90 万元",
           jsdz: "罗孟村委新建屯至平竹村委六对屯",
           xmnd: "2018年",
@@ -448,19 +511,19 @@ export default {
             }
           ],
           roadFileName: {
-            "2017-02-11": "lm01",
-            "2018-02-06": "lm02",
-            "2019-09-20": "lm03"
+            "2017-12-12": "sh",
+            "2018-04-14": "sh",
+            "2019-03-16": "sh"
           }
         },
         {
           centerPosition: {
-            lon: 108.0953,
-            lat: 24.3222,
+            lon: 110.8155,
+            lat: 36.990,
             height: 10000
           },
           serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
-          name: "永吉村加拉至干真屯级路建设",
+          name: "2019年普通高中学校改善办学条件（新建学生公寓楼）",
           xmzj: "48 万元",
           jsdz: "忠良乡双合村",
           xmnd: "2019年",
@@ -514,20 +577,19 @@ export default {
             }
           ],
           roadFileName: {
-            "2017-02-11": "sh",
-            "2017-10-30": "sh",
-            "2018-02-06": "sh",
-            "2019-09-20": "sh"
+            "2018-10-03": "sh2",
+            "2019-08-15": "sh2",
+            "2020-07-27": "sh2"
           }
         },
         {
           centerPosition: {
-            lon: 107.9019,
-            lat: 24.1778,
+            lon: 113.5590,
+            lat: 38.7201,
             height: 10000
           },
           serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
-          name: "六山村龙项屯乡级饮水安全巩固提升工程（新建水厂一个）",
+          name: "2019年中央彩票公益金耿镇集中安置区扶贫车间建设项目",
           xmzj: "48 万元",
           jsdz: "忠良乡双合村",
           xmnd: "2019年",
@@ -581,20 +643,18 @@ export default {
             }
           ],
           roadFileName: {
-            "2017-02-11": "sh",
-            "2017-10-30": "sh",
-            "2018-02-06": "sh",
-            "2019-09-20": "sh"
+            "2019-04-30": "sh3",
+            "2019-11-19": "sh3"
           }
         },
         {
           centerPosition: {
-            lon: 108.1172,
-            lat: 23.9340,
+            lon: 112.6866,
+            lat: 38.0673,
             height: 10000
           },
           serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
-          name: "江洒水库移民新村提升工程",
+          name: "2019年度阳曲县2017年易地扶贫搬迁集中安置项目",
           xmzj: "48 万元",
           jsdz: "忠良乡双合村",
           xmnd: "2019年",
@@ -648,212 +708,11 @@ export default {
             }
           ],
           roadFileName: {
-            "2017-02-11": "sh",
-            "2017-10-30": "sh",
-            "2018-02-06": "sh",
-            "2019-09-20": "sh"
+            "2016-11-05": "sh4",
+            "2017-06-02": "sh4",
+            "2019-12-30": "sh4"
           }
-        },
-        {
-          centerPosition: {
-            lon: 108.4289,
-            lat: 24.0792,
-            height: 10000
-          },
-          serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
-          name: "孟荣水库移民新村续建工程",
-          xmzj: "48 万元",
-          jsdz: "忠良乡双合村",
-          xmnd: "2019年",
-          fgpkc: "忠良乡双合村",
-          xmzgdw: "金秀县扶贫办",
-          xmfzr: "李东",
-          lxfs: "18778247770",
-          jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
-          shxy: "带动增加贫困人口收入0.5万元，受益贫困人口61人",
-          sgSchedule: {
-            sgqsm: {
-              xmzk: "项目状况：交通不便，影响当地经济发展"
-            },
-            sgzsm: {
-              sgrq: "2019-1至2019-11",
-              sqzj: "453万元",
-              zbwj: "金财农【2019】3号",
-              zjzfrq: "2019-03-27;2019-06-21;2019-08-28",
-              dqy: "金秀瑶族自治县城乡建设投资有限公司",
-              zfzj: "435.39万元"
-            },
-            sghsm: {
-              jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
-              shxy:
-                "切实改变项目区贫困群众出行难，明显改善项目区贫困落后的交通运输状况。"
-            }
-          },
-          result: [
-            {
-              dataEntry: "<span style='font-size: 18px'>工程量</span>",
-              target: "建设10.742公里（路基路面路肩、水沟涵洞）",
-              state: "图上作业测量建设约10.75公里",
-              compare:
-                "<span style='color:rgba(0,255,0,1)'>工程量满足要求</span>"
-            },
-            {
-              dataEntry: "<span style='font-size: 18px'>项目进度</span>",
-              target: "2019年1月至2019年11月",
-              state: "2019年11月监测到项目已按期完成",
-              compare:
-                "<span style='style='color:rgba(0,255,0,1)'>项目按期完成</span>"
-            },
-            {
-              dataEntry: "<span style='font-size: 18px'>资金拨付进度</span>",
-              target:
-                "2019年8月14日资金下达到金秀县扶贫办2037万元，包含本项目金额453万元",
-              state:
-                "2019年3月27日支付183.74万元<br/><br/>2019年6月21日支付34万元<br/><br/>2019年6月21日支付134.45万元<br/><br/>2019年8月28日支付52万元",
-              compare:
-                "<img src='static/images/warn.png' style='width:20px;height:20px;'/><span style='color:rgba(255,0,0,1)'>预警：资金未全部支付</span>"
-            }
-          ],
-          roadFileName: {
-            "2019-03-12": "sh",
-            "2019-11-11": "sh",
-            "2020-04-09": "sh"
-          }
-        },
-        {
-          centerPosition: {
-            lon: 108.2328,
-            lat: 24.2289,
-            height: 10000
-          },
-          serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
-          name: "拉烈镇地平村花东坳口至弄险道路",
-          xmzj: "48 万元",
-          jsdz: "忠良乡双合村",
-          xmnd: "2019年",
-          fgpkc: "忠良乡双合村",
-          xmzgdw: "金秀县扶贫办",
-          xmfzr: "李东",
-          lxfs: "18778247770",
-          jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
-          shxy: "带动增加贫困人口收入0.5万元，受益贫困人口61人",
-          sgSchedule: {
-            sgqsm: {
-              xmzk: "项目状况：交通不便，影响当地经济发展"
-            },
-            sgzsm: {
-              sgrq: "2019-1至2019-11",
-              sqzj: "453万元",
-              zbwj: "金财农【2019】3号",
-              zjzfrq: "2019-03-27;2019-06-21;2019-08-28",
-              dqy: "金秀瑶族自治县城乡建设投资有限公司",
-              zfzj: "435.39万元"
-            },
-            sghsm: {
-              jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
-              shxy:
-                "切实改变项目区贫困群众出行难，明显改善项目区贫困落后的交通运输状况。"
-            }
-          },
-          result: [
-            {
-              dataEntry: "<span style='font-size: 18px'>工程量</span>",
-              target: "建设10.742公里（路基路面路肩、水沟涵洞）",
-              state: "图上作业测量建设约10.75公里",
-              compare:
-                "<span style='color:rgba(0,255,0,1)'>工程量满足要求</span>"
-            },
-            {
-              dataEntry: "<span style='font-size: 18px'>项目进度</span>",
-              target: "2019年1月至2019年11月",
-              state: "2019年11月监测到项目已按期完成",
-              compare:
-                "<span style='style='color:rgba(0,255,0,1)'>项目按期完成</span>"
-            },
-            {
-              dataEntry: "<span style='font-size: 18px'>资金拨付进度</span>",
-              target:
-                "2019年8月14日资金下达到金秀县扶贫办2037万元，包含本项目金额453万元",
-              state:
-                "2019年3月27日支付183.74万元<br/><br/>2019年6月21日支付34万元<br/><br/>2019年6月21日支付134.45万元<br/><br/>2019年8月28日支付52万元",
-              compare:
-                "<img src='static/images/warn.png' style='width:20px;height:20px;'/><span style='color:rgba(255,0,0,1)'>预警：资金未全部支付</span>"
-            }
-          ],
-          roadFileName: {
-            "2017-02-11": "sh",
-            "2017-10-30": "sh",
-            "2018-02-06": "sh",
-            "2019-09-20": "sh"
-          }
-        },
-        {
-          centerPosition: {
-            lon: 108.1268,
-            lat: 23.9460,
-            height: 10000
-          },
-          serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
-          name: "推内水库移民新村提升工程",
-          xmzj: "48 万元",
-          jsdz: "忠良乡双合村",
-          xmnd: "2019年",
-          fgpkc: "忠良乡双合村",
-          xmzgdw: "金秀县扶贫办",
-          xmfzr: "李东",
-          lxfs: "18778247770",
-          jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
-          shxy: "带动增加贫困人口收入0.5万元，受益贫困人口61人",
-          sgSchedule: {
-            sgqsm: {
-              xmzk: "项目状况：交通不便，影响当地经济发展"
-            },
-            sgzsm: {
-              sgrq: "2019-1至2019-11",
-              sqzj: "453万元",
-              zbwj: "金财农【2019】3号",
-              zjzfrq: "2019-03-27;2019-06-21;2019-08-28",
-              dqy: "金秀瑶族自治县城乡建设投资有限公司",
-              zfzj: "435.39万元"
-            },
-            sghsm: {
-              jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
-              shxy:
-                "切实改变项目区贫困群众出行难，明显改善项目区贫困落后的交通运输状况。"
-            }
-          },
-          result: [
-            {
-              dataEntry: "<span style='font-size: 18px'>工程量</span>",
-              target: "建设10.742公里（路基路面路肩、水沟涵洞）",
-              state: "图上作业测量建设约10.75公里",
-              compare:
-                "<span style='color:rgba(0,255,0,1)'>工程量满足要求</span>"
-            },
-            {
-              dataEntry: "<span style='font-size: 18px'>项目进度</span>",
-              target: "2019年1月至2019年11月",
-              state: "2019年11月监测到项目已按期完成",
-              compare:
-                "<span style='style='color:rgba(0,255,0,1)'>项目按期完成</span>"
-            },
-            {
-              dataEntry: "<span style='font-size: 18px'>资金拨付进度</span>",
-              target:
-                "2019年8月14日资金下达到金秀县扶贫办2037万元，包含本项目金额453万元",
-              state:
-                "2019年3月27日支付183.74万元<br/><br/>2019年6月21日支付34万元<br/><br/>2019年6月21日支付134.45万元<br/><br/>2019年8月28日支付52万元",
-              compare:
-                "<img src='static/images/warn.png' style='width:20px;height:20px;'/><span style='color:rgba(255,0,0,1)'>预警：资金未全部支付</span>"
-            }
-          ],
-          roadFileName: {
-            "2017-02-11": "sh",
-            "2017-10-30": "sh",
-            "2018-02-06": "sh",
-            "2019-09-20": "sh"
-          }
-        },
+        }
       ],
       tableData: [],
       currentProject: {}
@@ -887,7 +746,7 @@ export default {
         return;
       }
       this.zoneLocation(zoneName);
-      if (zoneName === "广西壮族自治区") {
+      if (zoneName === "山西省") {
         //添加贫困点
         this.addPKPoint();
       }
@@ -998,23 +857,23 @@ export default {
       this.entitiesList.push(poly);
     },
     addPKPoint() {
-      Cesium.GeoJsonDataSource.load("static/data/pkx.json").then(dataSource => {
-        viewer.dataSources.add(dataSource);
-        var entities = dataSource.entities.values;
-        for (var i = 0; i < entities.length; i++) {
-          var entity = entities[i];
-          entity.billboard = undefined;
-          entity.point = new Cesium.PointGraphics({
-            color: Cesium.Color.RED,
-            pixelSize: 10
-          });
-        }
-        let pkxDataUrl = ["dayzzzx", "yjq", "jxyzzzx"];
-        //添加面
-        //for (let i = 0; i < pkxDataUrl.length; i++) {
-        //this.addPKXBoundary(pkxDataUrl[0]);
-        //}
-      });
+      // Cesium.GeoJsonDataSource.load("static/data/pkx.json").then(dataSource => {
+      //   viewer.dataSources.add(dataSource);
+      //   var entities = dataSource.entities.values;
+      //   for (var i = 0; i < entities.length; i++) {
+      //     var entity = entities[i];
+      //     entity.billboard = undefined;
+      //     entity.point = new Cesium.PointGraphics({
+      //       color: Cesium.Color.RED,
+      //       pixelSize: 10
+      //     });
+      //   }
+      //   let pkxDataUrl = ["dayzzzx", "yjq", "jxyzzzx"];
+      //   //添加面
+      //   //for (let i = 0; i < pkxDataUrl.length; i++) {
+      //   //this.addPKXBoundary(pkxDataUrl[0]);
+      //   //}
+      // });
     },
     addPKXBoundary(fileName) {
       console.log('fileName',fileName)
@@ -1065,6 +924,7 @@ export default {
       }, Cesium.ScreenSpaceEventType.LEFT_DOWN);
     },
     zoneLocation(zoneName) {
+      console.log('zoneLocation',zoneName,this.zoneObject)
       for (let i = 0; i < this.zoneObject.length; i++) {
         if (this.zoneObject[i].name === zoneName) {
           this.currentZoneObject = this.zoneObject[i];
@@ -1180,6 +1040,7 @@ export default {
     },
     //加载 行政边界并定位
     addZoneBoundary(obj, isFly = true) {
+      console.log('加载addZoneBoundary',obj)
       /**this.viewer.dataSources.add(
         Cesium.GeoJsonDataSource.load(
           `static/data/boundary/${obj.zoneName}.json`,
@@ -1214,7 +1075,7 @@ export default {
               labels[name] = name;
             }
             if (
-              name === "广西壮族自治区" ||
+              name === "山西省" ||
               name === "右江区" ||
               name === "都安瑶族自治县" ||
               name === "金秀瑶族自治县"

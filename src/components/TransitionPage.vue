@@ -3,7 +3,7 @@
     <div id="cesium-container1"></div>
     <el-button class="home" type="primary" @click="linkToHome">首页</el-button>
     <el-button class="exit" type="primary" @click="linkToLogin">退出</el-button>
-    <div class="title">广西县级财政扶贫资金动态监控系统</div>
+    <div class="title">山西省级级财政扶贫资金动态监控系统</div>
   </div>
 </template>
 

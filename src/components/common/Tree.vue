@@ -1,7 +1,7 @@
 <template>
   <div class="tree">
     <div class="tree-wrapper">
-      <div class="tree-title">广西壮族自治区行政区划</div>
+      <div class="tree-title">山西行政区划</div>
       <div class="tree-content">
         <el-tree
           ref="tree"
@@ -40,7 +40,7 @@ export default {
       console.log(res);
       this.treeData = res.data;
 
-      Bus.$emit("zone-click-event", "广西壮族自治区");
+      Bus.$emit("zone-click-event", "山西省");
     });
 
     // 点击地球，选择对应的tree节点
@@ -75,7 +75,7 @@ export default {
 
       Bus.$emit("zone-click-event", data.name);
 
-      if (this.$route.path === '/index1' && data.name === '广西壮族自治区') {
+      if (this.$route.path === '/index1' && data.name === '山西省') {
         this.$router.push({
           path: '/index'
         })
@@ -83,7 +83,7 @@ export default {
 
       // data.label = data.name;
       // Bus.$emit("zone-click-event", data.label);
-      if(data.name=='广西壮族自治区') {
+      if(data.name=='山西省') {
         Bus.$emit("overview_show", 1)
         Bus.$emit("fundaccount_show", 0)
       }

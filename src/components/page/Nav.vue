@@ -1,6 +1,6 @@
 <template>
   <div class="nav-wrapper">
-    <div class="nav-title">广西县级财政扶贫资金动态监控系统</div>
+    <div class="nav-title">山西省级财政扶贫资金动态监控系统</div>
   </div>
 </template>
 

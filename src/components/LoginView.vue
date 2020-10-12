@@ -1,6 +1,6 @@
 <template>
   <div class="login">
-    <div class="login-title">>广西县级财政扶贫资金动态监控系统</div>
+    <div class="login-title">>山西省级财政扶贫资金动态监控系统</div>
     <div class="form">
       <div class="form-title">用户登录</div>
       <el-form ref="form" :model="form" :rules="rules" label-width="70px">
